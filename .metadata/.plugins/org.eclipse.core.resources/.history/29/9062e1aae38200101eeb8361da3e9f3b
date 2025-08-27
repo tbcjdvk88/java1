@@ -22,7 +22,7 @@ public class PromotionExample {
 		
 		floatValue=100.5f;
 		double doubleValue=floatValue;
-		System.out.println(doubleValue);//주석
+		System.out.println(doubleValue);
 
 	}
 
