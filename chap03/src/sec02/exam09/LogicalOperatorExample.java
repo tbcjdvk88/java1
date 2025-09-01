@@ -15,12 +15,13 @@ public class LogicalOperatorExample {
 			System.out.println("0~9의 숫자");
 		}
 		int value = 6;
+		
 		if( (value%2==0) | (value%3==0) ) {
 			System.out.println("2 또는 3의 배수");
-			}
-		if( (value%2==0) || (value%3==0) )
-		{
-			System.out.println("2 또는 3의 배수");}
+		}
+		if( (value%2==0) || (value%3==0) ){
+			System.out.println("2 또는 3의 배수");
+		}
 
 	}
 
