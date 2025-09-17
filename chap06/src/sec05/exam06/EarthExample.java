@@ -1,10 +1,10 @@
-package sec03.exam01;
+package sec05.exam06;
 
-public class CarExample {
+public class EarthExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Car myCar=new Car("검정",3000);
+
 	}
 
 }
